@@ -9,16 +9,18 @@ export const Home = () => {
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
             <p className='text-pink-600'>Hi! My Name is </p>
             <h1 className='text-4xl sm:text-6xl font-bold text-[#ccd6f6]'>Shokhzoda/샥조다</h1>
-            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]' >I am Front-end Developer.</h2>
+            <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]' >I am Front-end Developer</h2>
             <p className='text-[#8892b0] py-4 max-w-[700px] ' >Lorem 20   kahv lksfhgvlkcl sefbweyigoyewitgoiywegoiecionu hsieyofoiyegryofgeroygfroyefvygeyfyoaefioehrfheiohye        
              </p>
         <div>
+        <a href='' >
             <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600 '>
             View Work 
-            <span className='group-hover:rotate-90 duration-300'>
+            <span className='hover:rotate-90 duration-300'>
             <HiArrowNarrowRight className='ml-3 ' />
             </span>
            </button>
+           </a>
         </div>
         </div>
     </div>
