@@ -10,7 +10,10 @@ export const Home = () => {
             <p className='text-pink-600'>Hi! My Name is </p>
             <h1 className='text-4xl sm:text-6xl font-bold text-[#ccd6f6]'>Shokhzoda/샥조다</h1>
             <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]' >I am Front-end Developer</h2>
-            <p className='text-[#8892b0] py-4 max-w-[700px] ' >Lorem 20   kahv lksfhgvlkcl sefbweyigoyewitgoiywegoiecionu hsieyofoiyegryofgeroygfroyefvygeyfyoaefioehrfheiohye        
+            <p className='text-[#8892b0] py-4 max-w-[700px] ' >I studied 'Front-end 
+            web developer' course by online 
+            in WebBrain Academy. 
+            During study I learnt html5, css3, javascript, bootstrap,Tailwind CSS and Reactjs.         
              </p>
         <div>
         <a href='' >
